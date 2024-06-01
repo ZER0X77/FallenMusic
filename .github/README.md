@@ -1,98 +1,98 @@
+<h3 align="center">
+    ─「 ⋆ᴠᴇɢᴀ♪ 」─
+</h3>
+ 
+ 
+ ㅤ ㅤㅤ[![GIF](https://github.com/ZER0X77/ZER0X77/blob/main/ZER0X77.gif)](https://github.com/ZER0X77)
+   [![𝐕𝐄𝐆𝐀𝐌𝐔𝐒𝐈𝐂](https://github-stats-alpha.vercel.app/api?username=ZER0X77 "ZER0X77")](https://github-stats-alpha.vercel.app/api?username=ZER0X77 "ZER0X77")
+                                                          
+  
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+𝐕𝐄𝐆𝐀𝐌𝐔𝐒𝐈𝐂+🌱">
+
+
+<!--
+**ZER0X77/ZER0X77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 <p align="center">
-    <br><b>😫 𝗙𝗮𝗹𝗹𝗲𝗻 𝗠𝘂𝘀𝗶𝗰 😫</b><br>
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/ZER0X77/count.svg" />
 </p>
-<p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/89cbc8b8760b6abff430f.jpg"></a></p>
+<!---
+ZER0X77/ZER0X77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
-
-<p align="center">
-    <img src="https://img.shields.io/github/stars/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Watchers">
-    <img src="https://img.shields.io/github/license/AnonymousR1025/FallenMusic?style=for-the-badge" alt="LICENSE">
-    <img src="https://img.shields.io/github/commit-activity/w/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Commit Activity">
-    <a href="https://github.com/AnonymousR1025/FallenMusic/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/FallenMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <img src="https://img.shields.io/github/contributors/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Contributors">
-    <a href="https://github.com/AnonymousR1025/FallenMusic/issues"> <img src="https://img.shields.io/github/issues/AnonymousR1025/FallenMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/AnonymousR1025/FallenMusic"> <img src="https://img.shields.io/github/repo-size/AnonymousR1025/FallenMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
-
-<details>
-<summary><h3> Requirements 📝</h3></summary>
-
-- FFmpeg
-- NodeJS [nodesource.com](https://nodesource.com/)
-- Python 3.7 or higher
-- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
-</details>
-
-<details>
-<summary><h3> Features 🔮</h3></summary>
-
-- Yt-dL Fix
-- Updated Plug-in
-- Super Fast Bot
-- No Lag Hang
-- Fast Download Song From Server
-- Program Updated
-- Smooth Player
-</details>
-
-<details>
-<summary><h3> Commands 🛠</h3></summary> 
-
-- `/play <song name>` - play song you requested
-- `/song <song name>` - download songs you want quickly
-- `/ping` - Bot Online or Offine
-
-#### Admins Only 👷‍♂️
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - stop music play
-</details>
-
-### 🧪 Get `SESSION_NAME` variable:
-
-[``Pyrogram Session``](https://telegram.me/StringFatherBot)
-
-## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
-
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AnonymousR1025/FallenMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
-The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
-
-## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
-
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/AnonymousR1025/FallenMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
-The second easiest way to host this bot, Deploy on Okteto Cloud
-
-## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
-
-```sh
-sudo apt update && apt upgrade -y
-sudo apt install git curl python3-pip ffmpeg -y
-pip3 install -U pip
-curl -sL https://deb.nodesource.com/setup_16.x | bash -
-sudo apt-get install -y nodejs
-npm i -g npm
-git clone https://github.com/AnonymousR1025/FallenMusic # Clone your repo.
-cd FallenMusic
-pip3 install -U -r requirements.txt
-cp example.env .env #Use vim to edit ENVs
-vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file.)
-python3 main.py # Run the bot
+```
+class zero():
+    def __init__(self):
+        self.name = ['zero']
+        self.country = ['Egypt']
+        self.language = ['Arab', 'English']
+    def programming_languages(self):
+        return [
+            'Python', 'SQL'
+        ]
+    def markup_languages(self):
+        return [
+            'HTML', 'CSS'
+        ]
+    def developer_tools(self):
+        return [
+            'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
+            'MongoDB', 'MySQL', 'Azure'
+        ]
+    def operating_system(self):
+        return [
+            'Windows', 'Android', 'Linux'
+        ]
 ```
 
-### ᴄʀᴇᴅɪᴛs 💖
-- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025): Developer
-- [Fallen Music Bot](https://telegram.me/fallen_music_bot): Test Bot
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
 
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-### Support & Developer 🎑
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/anonymous_was_bot"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
-------------------------------------------------
--------------------------------------------------
+
+
+  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=ZER0X77&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://ZER0X77.me)
+  
+  
+
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAXXTEAM&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
+
+# Contribution Graph:
+
+
+<p align="center">
+  <a href="https://github.com/ZER0X77">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZER0X77#version3"/>
+  </a>
+</p>
+<a href="https://github.com/ZER0X77"><img alt="Abir's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=ZER0X77&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+
+# Github Streak ☠︎︎
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ZER0X77&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://ZER0X77.me)
+
+# 🛠️ Languages and tools☠︎︎
+</br>
+
+[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,java,html,py,c,ts,js,deno,flutter,fastapi&perline=10)](https://ZER0X77.me)
+
+
+
+# My Stats☠︎︎
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ZER0X77&show_icons=true&theme=radical)
+
+# Contact ☠︎︎
+<p align="center">
+<a href="https://telegram.me/GROUPVEGA"><img src="https://img.shields.io/badge/-CHAT%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://telegram.me/VEGAOne"><img src="https://img.shields.io/badge/-VEGA%20Channel-blue.svg?style=for-the-bad
+                                          ge&logo=Telegram"></a>
+</p>
